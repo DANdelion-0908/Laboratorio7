@@ -51,7 +51,7 @@ main proc
 	;Divisor
 	mov bx, 10
 
-	xor dx, dx         ; Limpiar dx para evitar una excpeción.
+	xor dx, dx         ; Limpiar dx para evitar una excepción.
 
 	; División
 	div bx
